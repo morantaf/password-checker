@@ -41,10 +41,8 @@ The script will output a message for each password, indicating whether the passw
 
 Here is a sample output:
 
-    ```
     password123 was found 4736 times, you should probably change your password
     qwerty was not found, all good
-    ```
 
 ## Security
 
